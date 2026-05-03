@@ -1,0 +1,14 @@
+{
+  "name": "wa-bot-client",
+  "version": "1.0.0",
+  "description": "Termux Receiver for WA Bot via WebSocket",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "author": "Trio Anggoro",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^4.7.5"
+  }
+}
