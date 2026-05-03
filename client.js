@@ -3,10 +3,10 @@ const { spawn } = require('child_process');
 
 // ================= PENGATURAN KONEKSI =================
 // Ganti dengan IP VPS Hostinger Anda
-const VPS_URL = 'http://IP_VPS_ANDA:3000'; 
+const VPS_URL = 'http://72.61.116.57:3000'; 
 
 // Harus sama persis dengan yang ada di script VPS
-const AUTH_TOKEN = 'RAHASIA_SUPER_KLIEN_123'; 
+const AUTH_TOKEN = 'q7t0Ag#sN)hZxyMx'; 
 
 console.log('🔄 Menghubungkan ke server pusat...');
 
